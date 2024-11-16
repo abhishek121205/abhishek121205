@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🖥️I’m currently studying Full stack.<br>🌿 I’m currently learning React.Js<br>🔭My Recent Project <a href="https://abhishekx1212.github.io/cobbler/">E-commerce Website.</a><br>👨‍💻 My <a href="https://abhishekx1212.github.io/portfolio-3/">portfolio.</a><br>📫 How to reach me **trigonx1212@gmail.com**</p>
+<p align="left">🖥️I’m currently studying Full stack.<br>🌿 I’m currently learning React.Js<br>🏢 Currently working on a MERN Stack Project<br>🔭My Recent Project <a href="https://abhishekx1212.github.io/cobbler/">E-commerce Website.</a><br>👨‍💻 My <a href="https://abhishekx1212.github.io/portfolio-3/">portfolio.</a><br>📫 How to reach me **trigonx1212@gmail.com**</p>
 
 ###
 
