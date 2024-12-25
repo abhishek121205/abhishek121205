@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="205" src="https://miro.medium.com/v2/resize:fit:940/1*CAo2phLhkEynY4Cx8uILpA.png"  />
+<img align="right" height="205" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg"  />
 
 ###
 
