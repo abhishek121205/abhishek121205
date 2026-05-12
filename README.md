@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🖥️I’m currently studying Full stack.<br>🌿 I’m currently learning React.Js<br>🏢 Currently working on a MERN Stack Project<br>🔭My Recent Project <a href="https://chatapp-frontend-rtfn.onrender.com">Realtime Chat Application.</a><br>👨‍💻 My <a href="https://my-portfolio-n6gg.onrender.com/">portfolio.</a><br>📫 How to reach me **khacharabhi3@gmail.com**</p>
+<p align="left">🖥️I’m currently studying Full stack.<br>🌿 I’m currently learning React.Js<br>🏢 Currently working on a MERN Stack Project<br>🔭My Recent Project <a href="https://glarnsalon.netlify.app/">Salon Management Syatem</a><br>👨‍💻 My <a href="https://my-portfolio-n6gg.onrender.com/">portfolio.</a><br>📫 How to reach me **khacharabhi3@gmail.com**</p>
 
 ###
 
